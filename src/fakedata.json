@@ -1,0 +1,330 @@
+
+{
+    "data": [
+    {   
+        "id" : 0,
+        "username":"bounds.eth",
+        "mp":"420",
+        "rewards":"69",
+        "badge":[
+            {
+                "badge1": "",
+                "badge2": "",
+                "badge3": "",
+                "badge4": "",
+                "badge5": "",
+                "badge6": ""
+            }
+        ],
+        "profilepicture": "pfp1.jpg",
+        "links":[
+            {
+                "twitter": "https://twitter.com/bwndsmusic",
+                "github": "https://github.com/boundsounds",
+                "discord": "",
+                "youtube": "https://www.youtube.com/channel/UC8cyXbSp-Pe0t_oIjx_ZHPw",
+                "spotify": "https://open.spotify.com/artist/5NJSK3tqLAJKSAndCeWc2P?si=cKGsDpa_RJSysGczaWYbRQ",
+                "twitch": ""
+            }
+        ],
+        "collection":[
+            {
+                "pic1": "",
+                "pic2": "",
+                "pic3": "",
+                "pic4": "",
+                "pic5": "",
+                "pic6": ""
+            }
+        ],
+        "badges":"7",
+        "exp": "Dec. 2021"
+       
+    
+    },
+    {   
+        "id" : 1,
+        "username":"threethirty.eth",
+        "mp":"333",
+        "rewards":"400",
+        "badge":[
+            {
+                "badge1": "",
+                "badge2": "",
+                "badge3": "",
+                "badge4": "",
+                "badge5": "",
+                "badge6": ""
+            }
+        ],
+        "profilepicture": "pfp1.jpg",
+        "links":[
+            {
+                "twitter": "",
+                "github": "",
+                "discord": "",
+                "youtube": "",
+                "spotify": "",
+                "twitch": ""
+            }
+        ],
+        "collection":[
+            {
+                "pic1": "",
+                "pic2": "",
+                "pic3": "",
+                "pic4": "",
+                "pic5": "",
+                "pic6": ""
+            }
+        ],
+        "badges":"25",
+        "exp": "Dec. 2021"
+       
+    
+    }, {   
+        "id" : 2,
+        "username":"saeri.eth",
+        "mp":"373",
+        "rewards":"27",
+        "badge":[
+            {
+                "badge1": "",
+                "badge2": "",
+                "badge3": "",
+                "badge4": "",
+                "badge5": "",
+                "badge6": ""
+            }
+        ],
+        "profilepicture": "pfp1.jpg",
+        "links":[
+            {
+                "twitter": "",
+                "github": "",
+                "discord": "",
+                "youtube": "",
+                "spotify": "",
+                "twitch": ""
+            }
+        ],
+        "collection":[
+            {
+                "pic1": "",
+                "pic2": "",
+                "pic3": "",
+                "pic4": "",
+                "pic5": "",
+                "pic6": ""
+            }
+        ],
+        "badges":"10",
+        "exp": "Jan. 2021"
+       
+    
+    }, {   
+        "id" : 3,
+        "username":"ctjlewis.eth",
+        "mp":"300",
+        "rewards":"72",
+        "badge":[
+            {
+                "badge1": "",
+                "badge2": "",
+                "badge3": "",
+                "badge4": "",
+                "badge5": "",
+                "badge6": ""
+            }
+        ],
+        "profilepicture": "pfp1.jpg",
+        "links":[
+            {
+                "twitter": "",
+                "github": "",
+                "discord": "",
+                "youtube": "",
+                "spotify": "",
+                "twitch": ""
+            }
+        ],
+        "collection":[
+            {
+                "pic1": "",
+                "pic2": "",
+                "pic3": "",
+                "pic4": "",
+                "pic5": "",
+                "pic6": ""
+            }
+        ],
+        "badges":"7",
+        "exp": "Nov. 2021"
+       
+    
+    }, {   
+        "id" : 4,
+        "username":"Dysk.eth",
+        "mp":"5000",
+        "rewards":"287",
+        "badge":[
+            {
+                "badge1": "",
+                "badge2": "",
+                "badge3": "",
+                "badge4": "",
+                "badge5": "",
+                "badge6": ""
+            }
+        ],
+        "profilepicture": "pfp1.jpg",
+        "links":[
+            {
+                "twitter": "",
+                "github": "",
+                "discord": "",
+                "youtube": "",
+                "spotify": "",
+                "twitch": ""
+            }
+        ],
+        "collection":[
+            {
+                "pic1": "",
+                "pic2": "",
+                "pic3": "",
+                "pic4": "",
+                "pic5": "",
+                "pic6": ""
+            }
+        ],
+        "badges":"7",
+        "exp": "Mar. 2021"
+       
+    
+    }, {   
+        "id" : 5,
+        "username":"SupeJacob.eth",
+        "mp":"267",
+        "rewards":"19",
+        "badge":[
+            {
+                "badge1": "",
+                "badge2": "",
+                "badge3": "",
+                "badge4": "",
+                "badge5": "",
+                "badge6": ""
+            }
+        ],
+        "profilepicture": "pfp1.jpg",
+        "links":[
+            {
+                "twitter": "",
+                "github": "",
+                "discord": "",
+                "youtube": "",
+                "spotify": "",
+                "twitch": ""
+            }
+        ],
+        "collection":[
+            {
+                "pic1": "",
+                "pic2": "",
+                "pic3": "",
+                "pic4": "",
+                "pic5": "",
+                "pic6": ""
+            }
+        ],
+        "badges":"87",
+        "exp": "Nov. 2021"
+       
+    
+    }, {   
+        "id" : 6,
+        "username":"tarauh.eth",
+        "mp":"285",
+        "rewards":"28",
+        "badge":[
+            {
+                "badge1": "",
+                "badge2": "",
+                "badge3": "",
+                "badge4": "",
+                "badge5": "",
+                "badge6": ""
+            }
+        ],
+        "profilepicture": "pfp1.jpg",
+        "links":[
+            {
+                "twitter": "",
+                "github": "",
+                "discord": "",
+                "youtube": "",
+                "spotify": "",
+                "twitch": ""
+            }
+        ],
+        "collection":[
+            {
+                "pic1": "",
+                "pic2": "",
+                "pic3": "",
+                "pic4": "",
+                "pic5": "",
+                "pic6": ""
+            }
+        ],
+        "badges":"7",
+        "exp": "Jan. 2021"
+       
+    
+    }, {   
+        "id" : 7,
+        "username":"samwiticky.eth",
+        "mp":"756",
+        "rewards":"86",
+        "badge":[
+            {
+                "badge1": "",
+                "badge2": "",
+                "badge3": "",
+                "badge4": "",
+                "badge5": "",
+                "badge6": ""
+            }
+        ],
+        "profilepicture": "pfp1.jpg",
+        "links":[
+            {
+                "twitter": "",
+                "github": "",
+                "discord": "",
+                "youtube": "",
+                "spotify": "",
+                "twitch": ""
+            }
+        ],
+        "collection":[
+            {
+                "pic1": "",
+                "pic2": "",
+                "pic3": "",
+                "pic4": "",
+                "pic5": "",
+                "pic6": ""
+            }
+        ],
+        "badges":"30",
+        "exp": "Dec. 2021"
+       
+    
+    }
+
+
+
+]
+ }
